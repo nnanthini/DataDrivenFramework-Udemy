@@ -1,0 +1,7 @@
+INFO    2021-01-29 16:25:46,898 [main] appLogger  - Loading config properties file
+DEBUG   2021-01-29 16:25:46,900 [main] appLogger  - C:\Users\ezhil\Desktop\FrontEndNanodegree\Udemy - Selenium\Udemy - Selenium\Eclipse Workspace\src\test\resources\properties\path1.properties (The system cannot find the file specified)
+INFO    2021-01-29 16:25:51,494 [main] appLogger  - Initialising Firefox Driver
+INFO    2021-01-29 16:25:52,861 [main] appLogger  - Navigating to url https://www.google.com/
+INFO    2021-01-29 16:25:52,924 [main] appLogger  - Listener Method - onTestStart null
+INFO    2021-01-29 16:25:52,924 [main] appLogger  - Executing checkTitle() test
+INFO    2021-01-29 16:25:52,943 [main] appLogger  - Listener Method - onTestSuccess checkTitle
