@@ -3,6 +3,7 @@ package listeners;
 import org.testng.ITestContext;
 import org.testng.ITestListener;
 import org.testng.ITestResult;
+import org.testng.Reporter;
 
 import base.BaseClass;
 
@@ -16,6 +17,7 @@ public class ListenerTest extends BaseClass implements ITestListener  {
 	public void onTestSuccess(ITestResult result) {
 		// TODO Auto-generated method stub
 		log.info("Listener Method - onTestSuccess "+result.getName());
+		Reporter.log("Test passed");
 	}
 
 	public void onTestFailure(ITestResult result) {
