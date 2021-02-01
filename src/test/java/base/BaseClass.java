@@ -38,7 +38,7 @@ public class BaseClass {
 			
 		}
 
-		String pathFilePath = System.getProperty("user.dir") + "\\src\\test\\resources\\properties\\path1.properties";
+		String pathFilePath = System.getProperty("user.dir") + "\\src\\test\\resources\\properties\\path.properties";
 		File pathFile = new File(pathFilePath);
 
 		try {

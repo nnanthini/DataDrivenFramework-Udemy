@@ -1,7 +1,17 @@
-INFO    2021-01-29 16:52:21,107 [main] appLogger  - Loading config properties file
-DEBUG   2021-01-29 16:52:21,111 [main] appLogger  - C:\Users\ezhil\Desktop\FrontEndNanodegree\Udemy - Selenium\Udemy - Selenium\Eclipse Workspace\src\test\resources\properties\path1.properties (The system cannot find the file specified)
-INFO    2021-01-29 16:52:25,460 [main] appLogger  - Initialising Firefox Driver
-INFO    2021-01-29 16:52:26,918 [main] appLogger  - Navigating to url https://www.google.com/
-INFO    2021-01-29 16:52:26,987 [main] appLogger  - Listener Method - onTestStart null
-INFO    2021-01-29 16:52:26,987 [main] appLogger  - Executing checkTitle() test
-INFO    2021-01-29 16:52:27,002 [main] appLogger  - Listener Method - onTestSuccess checkTitle
+INFO    2021-02-01 12:16:04,090 [main] appLogger  - Loading config properties file
+INFO    2021-02-01 12:16:04,092 [main] appLogger  - Loading path properties file
+INFO    2021-02-01 12:16:08,429 [main] appLogger  - Initialising Firefox Driver
+INFO    2021-02-01 12:16:10,350 [main] appLogger  - Navigating to url https://www.google.com/
+INFO    2021-02-01 12:16:10,424 [main] appLogger  - Listener Method - onTestStart null
+INFO    2021-02-01 12:16:10,427 [main] appLogger  - Executing checkTitle() test
+INFO    2021-02-01 12:16:10,443 [main] appLogger  - Listener Method - onTestSuccess checkTitle
+INFO    2021-02-01 12:16:11,144 [main] appLogger  - Listener Method - onTestStart null
+INFO    2021-02-01 12:16:15,261 [main] appLogger  - Listener Method - onTestSuccess testSearchField
+INFO    2021-02-01 12:16:15,272 [main] appLogger  - Listener Method - onTestStart null
+INFO    2021-02-01 12:16:19,380 [main] appLogger  - Listener Method - onTestSuccess testSearchField
+INFO    2021-02-01 12:16:19,392 [main] appLogger  - Listener Method - onTestStart null
+INFO    2021-02-01 12:16:23,512 [main] appLogger  - Listener Method - onTestSuccess testSearchField
+INFO    2021-02-01 12:16:23,517 [main] appLogger  - Listener Method - onTestStart null
+INFO    2021-02-01 12:16:27,596 [main] appLogger  - Listener Method - onTestSuccess testSearchField
+INFO    2021-02-01 12:16:27,604 [main] appLogger  - Listener Method - onTestStart null
+INFO    2021-02-01 12:16:31,705 [main] appLogger  - Listener Method - onTestSuccess testSearchField
